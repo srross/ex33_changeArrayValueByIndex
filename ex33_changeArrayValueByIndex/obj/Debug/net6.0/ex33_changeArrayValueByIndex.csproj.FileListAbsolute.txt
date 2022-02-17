@@ -1,0 +1,15 @@
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ex33_changeArrayValueByIndex.exe
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ex33_changeArrayValueByIndex.deps.json
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ex33_changeArrayValueByIndex.runtimeconfig.json
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ex33_changeArrayValueByIndex.dll
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ref\ex33_changeArrayValueByIndex.dll
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\bin\Debug\net6.0\ex33_changeArrayValueByIndex.pdb
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.csproj.AssemblyReference.cache
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.AssemblyInfoInputs.cache
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.AssemblyInfo.cs
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.csproj.CoreCompileInputs.cache
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.dll
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ref\ex33_changeArrayValueByIndex.dll
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.pdb
+C:\gc_repos\ex33_changeArrayValueByIndex\ex33_changeArrayValueByIndex\obj\Debug\net6.0\ex33_changeArrayValueByIndex.genruntimeconfig.cache
